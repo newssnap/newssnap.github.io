@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/icons/streetview.ttf": "40a124095bd719cd3ede0cd34e5a070f",
 "assets/assets/icons/heart.ttf": "5d0e5ab95838a74b0798e8867e1a5382",
 "assets/assets/images/logo.png": "f5fcd43522c970b6c5edbe846da2d662",
-"assets/assets/images/firstImage.png": "fde16375af1da2109aaa15ede1b45692",
+"assets/assets/images/firstImage.png": "6a99bfdf0e3c75a9b611795d773c6cfc",
 "assets/assets/images/appstore.png": "77ca8b6daef7f3a2c81f8266a17cd96a",
 "assets/assets/images/playstore.png": "8f5bfed7645d1a99c8390a93d3126cce",
 "assets/assets/fonts/PTSansNarrow-Regular.ttf": "afae664e1b2d250ffe1b7ffef5f5ddf5",
